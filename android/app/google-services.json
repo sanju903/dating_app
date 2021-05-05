@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "241584199444",
+    "project_id": "minglewiseclone",
+    "storage_bucket": "minglewiseclone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241584199444:android:28328744baffa8f3b89401",
+        "android_client_info": {
+          "package_name": "com.example.minglewise_clone_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241584199444-tae5fdm6s8r54h1nvii020m5suhm99cr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.minglewise_clone_app",
+            "certificate_hash": "5d4235fd211bab017a15e42264699da7bcc07078"
+          }
+        },
+        {
+          "client_id": "241584199444-pk181nel8fushku5ntp8gjr9qpnpqqgd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEnuumOcaLsPTe6xp_s2VTPL5fVn3tjDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241584199444-pk181nel8fushku5ntp8gjr9qpnpqqgd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
